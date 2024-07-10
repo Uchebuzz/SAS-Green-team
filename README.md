@@ -6,6 +6,6 @@ In this report, our team sourced 2 datasets; A World Bank dataset from Kaggle an
 
 We used two datasets which you can find on the repo as well
 
-I worked with [Dika](https://github.com/massivedesigns), an excellent data scientist and analyst!
+I worked with [Dika](https://github.com/massivedesigns), Khadijat and Faith.
 
 ![iStock-1403121168](https://github.com/Uchebuzz/SAS-Green-team/assets/105880802/395c1c52-ea23-41d0-8270-d9b5a00c2644)
